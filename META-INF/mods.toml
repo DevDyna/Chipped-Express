@@ -16,7 +16,7 @@ license="ARR"
 	side = "BOTH"
 
 [[dependencies.chipped_express]]
-	modId = "minecraft"
+	modId = "chipped"
 	mandatory = true
 	versionRange = "[3.0.1,)"
 	ordering = "NONE"
