@@ -1,0 +1,23 @@
+modLoader="lowcodefml"
+loaderVersion="[40,)"
+issueTrackerURL=""
+license="ARR"
+[[mods]]
+    modId="chipped_express"
+    version="1.0.0"
+    displayName="ChippedExpress"
+    description=""
+
+[[dependencies.chipped_express]]
+	modId = "minecraft"
+	mandatory = true
+	versionRange = "[1.20,)"
+	ordering = "NONE"
+	side = "BOTH"
+
+[[dependencies.chipped_express]]
+	modId = "minecraft"
+	mandatory = true
+	versionRange = "[3.0.1,)"
+	ordering = "NONE"
+	side = "BOTH"
