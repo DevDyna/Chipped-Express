@@ -1,2 +1,3 @@
-# Chipped-Express
-Mod addon for Chipped mod and automate all recipes
+# Chipped Express
+ Minecraft mod addon for [Chipped](https://legacy.curseforge.com/minecraft/mc-mods/chipped)
+
