@@ -1,4 +1,4 @@
 @ECHO OFF
 echo compressing all recipes , keep on mind that require a few of seconds!
-IF EXIST "ChippedExpress.jar-universal" DEL "ChippedExpress.jar"
-jar cf "ChippedExpress.jar-universal" assets data META-INF pack.mcmeta pack.png
+IF EXIST "ChippedExpress-universal.jar" DEL "ChippedExpress-universal.jar"
+jar cf "ChippedExpress-universal.jar" assets data META-INF pack.mcmeta pack.png
