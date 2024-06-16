@@ -1,10 +1,10 @@
 modLoader="lowcodefml"
-loaderVersion="[40,)"
+loaderVersion="[1,)"
 issueTrackerURL=""
 license="ARR"
 [[mods]]
     modId="chipped_express"
-    version="1.1.0"
+    version="1.2.0"
     displayName="ChippedExpress"
     description=""
 
