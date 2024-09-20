@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:diorite"},"result":"chipped:massive_diorite_bricks"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:diorite"},"result":{"id":"chipped:massive_diorite_bricks"}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:mud"},"result":"chipped:large_mud_sigil"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:mud"},"result":{"id":"chipped:large_mud_sigil"}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:iron_block"},"result":"chipped:iron_block_panels"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:iron_block"},"result":{"id":"chipped:iron_block_panels"}}

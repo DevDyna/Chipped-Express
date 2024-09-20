@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:magma_block"},"result":"chipped:pillar_magma_block_bricks"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:magma_block"},"result":{"id":"chipped:pillar_magma_block_bricks"}}

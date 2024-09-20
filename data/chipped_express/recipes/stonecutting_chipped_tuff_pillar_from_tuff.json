@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:tuff"},"result":"chipped:tuff_pillar"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:tuff"},"result":{"id":"chipped:tuff_pillar"}}

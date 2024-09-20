@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:torch"},"result":"chipped:crimson_torch"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:torch"},"result":{"id":"chipped:crimson_torch"}}

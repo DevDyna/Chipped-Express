@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:tuff"},"result":"chipped:layed_tuff_bricks"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:tuff"},"result":{"id":"chipped:layed_tuff_bricks"}}

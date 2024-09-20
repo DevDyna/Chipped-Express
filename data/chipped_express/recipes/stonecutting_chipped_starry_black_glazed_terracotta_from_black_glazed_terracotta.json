@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:black_glazed_terracotta"},"result":"chipped:starry_black_glazed_terracotta"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:black_glazed_terracotta"},"result":{"id":"chipped:starry_black_glazed_terracotta"}}

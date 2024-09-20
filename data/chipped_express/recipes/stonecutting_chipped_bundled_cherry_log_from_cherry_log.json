@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:cherry_log"},"result":"chipped:bundled_cherry_log"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:cherry_log"},"result":{"id":"chipped:bundled_cherry_log"}}

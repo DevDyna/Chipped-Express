@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:andesite"},"result":"chipped:smooth_inlayed_andesite"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:andesite"},"result":{"id":"chipped:smooth_inlayed_andesite"}}

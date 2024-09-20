@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:prismarine"},"result":"chipped:vertical_cut_prismarine"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:prismarine"},"result":{"id":"chipped:vertical_cut_prismarine"}}

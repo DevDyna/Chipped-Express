@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:yellow_concrete"},"result":"chipped:grill_yellow_concrete"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:yellow_concrete"},"result":{"id":"chipped:grill_yellow_concrete"}}

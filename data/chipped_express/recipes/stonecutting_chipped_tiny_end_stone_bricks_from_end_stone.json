@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:end_stone"},"result":"chipped:tiny_end_stone_bricks"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:end_stone"},"result":{"id":"chipped:tiny_end_stone_bricks"}}

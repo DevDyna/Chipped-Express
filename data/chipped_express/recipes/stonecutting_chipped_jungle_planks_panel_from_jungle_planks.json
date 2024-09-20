@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:jungle_planks"},"result":"chipped:jungle_planks_panel"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:jungle_planks"},"result":{"id":"chipped:jungle_planks_panel"}}

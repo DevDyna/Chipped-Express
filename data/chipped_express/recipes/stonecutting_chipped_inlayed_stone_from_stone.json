@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:stone"},"result":"chipped:inlayed_stone"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:stone"},"result":{"id":"chipped:inlayed_stone"}}

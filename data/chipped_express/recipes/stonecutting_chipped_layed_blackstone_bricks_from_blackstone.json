@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:blackstone"},"result":"chipped:layed_blackstone_bricks"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:blackstone"},"result":{"id":"chipped:layed_blackstone_bricks"}}

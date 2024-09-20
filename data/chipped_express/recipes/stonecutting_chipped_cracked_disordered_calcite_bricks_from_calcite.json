@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:calcite"},"result":"chipped:cracked_disordered_calcite_bricks"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:calcite"},"result":{"id":"chipped:cracked_disordered_calcite_bricks"}}

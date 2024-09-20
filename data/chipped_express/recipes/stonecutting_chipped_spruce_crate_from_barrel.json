@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:barrel"},"result":"chipped:spruce_crate"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:barrel"},"result":{"id":"chipped:spruce_crate"}}

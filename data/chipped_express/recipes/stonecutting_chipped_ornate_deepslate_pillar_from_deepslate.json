@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:deepslate"},"result":"chipped:ornate_deepslate_pillar"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:deepslate"},"result":{"id":"chipped:ornate_deepslate_pillar"}}

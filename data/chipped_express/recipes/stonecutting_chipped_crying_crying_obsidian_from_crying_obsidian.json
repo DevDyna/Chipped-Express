@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:crying_obsidian"},"result":"chipped:crying_crying_obsidian"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:crying_obsidian"},"result":{"id":"chipped:crying_crying_obsidian"}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:calcite"},"result":"chipped:engraved_calcite"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:calcite"},"result":{"id":"chipped:engraved_calcite"}}

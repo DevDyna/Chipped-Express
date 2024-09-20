@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:stone"},"result":"chipped:spiraled_stone"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:stone"},"result":{"id":"chipped:spiraled_stone"}}

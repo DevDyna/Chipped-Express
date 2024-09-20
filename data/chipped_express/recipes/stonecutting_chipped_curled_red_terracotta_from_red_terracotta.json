@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:red_terracotta"},"result":"chipped:curled_red_terracotta"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:red_terracotta"},"result":{"id":"chipped:curled_red_terracotta"}}

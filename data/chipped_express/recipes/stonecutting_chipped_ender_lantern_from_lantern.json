@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:lantern"},"result":"chipped:ender_lantern"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:lantern"},"result":{"id":"chipped:ender_lantern"}}

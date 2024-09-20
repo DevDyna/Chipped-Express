@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:sandstone"},"result":"chipped:cracked_disordered_sandstone_bricks"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:sandstone"},"result":{"id":"chipped:cracked_disordered_sandstone_bricks"}}

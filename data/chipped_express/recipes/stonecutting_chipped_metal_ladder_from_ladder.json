@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:ladder"},"result":"chipped:metal_ladder"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:ladder"},"result":{"id":"chipped:metal_ladder"}}

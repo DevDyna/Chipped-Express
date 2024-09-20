@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:lodestone"},"result":"chipped:simple_lodestone_pillar"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:lodestone"},"result":{"id":"chipped:simple_lodestone_pillar"}}

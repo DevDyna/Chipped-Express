@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:ladder"},"result":"chipped:crooked_ropeplank_ladder"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:ladder"},"result":{"id":"chipped:crooked_ropeplank_ladder"}}

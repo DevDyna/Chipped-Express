@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:acacia_log"},"result":"chipped:firewood_acacia_log"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:acacia_log"},"result":{"id":"chipped:firewood_acacia_log"}}

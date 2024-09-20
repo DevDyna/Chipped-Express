@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:obsidian"},"result":"chipped:cracked_obsidian_bricks"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:obsidian"},"result":{"id":"chipped:cracked_obsidian_bricks"}}

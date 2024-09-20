@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:mud"},"result":"chipped:arrow_mud"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:mud"},"result":{"id":"chipped:arrow_mud"}}

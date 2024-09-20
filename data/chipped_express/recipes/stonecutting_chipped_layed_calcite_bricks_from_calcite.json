@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:calcite"},"result":"chipped:layed_calcite_bricks"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:calcite"},"result":{"id":"chipped:layed_calcite_bricks"}}

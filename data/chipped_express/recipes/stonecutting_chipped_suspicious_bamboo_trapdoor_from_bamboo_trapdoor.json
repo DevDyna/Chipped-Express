@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:bamboo_trapdoor"},"result":"chipped:suspicious_bamboo_trapdoor"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:bamboo_trapdoor"},"result":{"id":"chipped:suspicious_bamboo_trapdoor"}}

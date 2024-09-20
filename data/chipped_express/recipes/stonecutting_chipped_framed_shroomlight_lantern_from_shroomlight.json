@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:shroomlight"},"result":"chipped:framed_shroomlight_lantern"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:shroomlight"},"result":{"id":"chipped:framed_shroomlight_lantern"}}

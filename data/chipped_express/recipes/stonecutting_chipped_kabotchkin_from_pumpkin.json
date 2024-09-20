@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:pumpkin"},"result":"chipped:kabotchkin"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:pumpkin"},"result":{"id":"chipped:kabotchkin"}}

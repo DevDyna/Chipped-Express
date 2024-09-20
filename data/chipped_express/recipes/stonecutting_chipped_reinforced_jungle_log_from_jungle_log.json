@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:jungle_log"},"result":"chipped:reinforced_jungle_log"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:jungle_log"},"result":{"id":"chipped:reinforced_jungle_log"}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:spruce_trapdoor"},"result":"chipped:airy_spruce_trapdoor"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:spruce_trapdoor"},"result":{"id":"chipped:airy_spruce_trapdoor"}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:netherrack"},"result":"chipped:sanded_netherrack"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:netherrack"},"result":{"id":"chipped:sanded_netherrack"}}

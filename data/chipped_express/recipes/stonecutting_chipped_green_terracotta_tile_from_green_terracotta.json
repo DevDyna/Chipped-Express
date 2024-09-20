@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:green_terracotta"},"result":"chipped:green_terracotta_tile"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:green_terracotta"},"result":{"id":"chipped:green_terracotta_tile"}}

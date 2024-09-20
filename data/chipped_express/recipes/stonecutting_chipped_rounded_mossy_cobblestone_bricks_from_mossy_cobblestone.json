@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:mossy_cobblestone"},"result":"chipped:rounded_mossy_cobblestone_bricks"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:mossy_cobblestone"},"result":{"id":"chipped:rounded_mossy_cobblestone_bricks"}}

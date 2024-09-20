@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:sponge"},"result":"chipped:bulby_sponge"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:sponge"},"result":{"id":"chipped:bulby_sponge"}}

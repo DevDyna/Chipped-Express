@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:gravel"},"result":"chipped:andesite_gravel"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:gravel"},"result":{"id":"chipped:andesite_gravel"}}

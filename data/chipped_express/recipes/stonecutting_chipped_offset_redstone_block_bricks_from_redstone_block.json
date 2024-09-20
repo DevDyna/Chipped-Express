@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:redstone_block"},"result":"chipped:offset_redstone_block_bricks"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:redstone_block"},"result":{"id":"chipped:offset_redstone_block_bricks"}}

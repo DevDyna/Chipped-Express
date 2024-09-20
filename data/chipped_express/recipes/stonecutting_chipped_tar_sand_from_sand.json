@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:sand"},"result":"chipped:tar_sand"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:sand"},"result":{"id":"chipped:tar_sand"}}

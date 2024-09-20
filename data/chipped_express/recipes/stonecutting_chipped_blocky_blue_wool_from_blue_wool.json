@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:blue_wool"},"result":"chipped:blocky_blue_wool"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:blue_wool"},"result":{"id":"chipped:blocky_blue_wool"}}

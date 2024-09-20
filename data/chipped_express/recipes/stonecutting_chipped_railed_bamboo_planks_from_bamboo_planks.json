@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:bamboo_planks"},"result":"chipped:railed_bamboo_planks"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:bamboo_planks"},"result":{"id":"chipped:railed_bamboo_planks"}}

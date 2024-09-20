@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:dark_prismarine"},"result":"chipped:creeper_dark_prismarine_carving"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:dark_prismarine"},"result":{"id":"chipped:creeper_dark_prismarine_carving"}}

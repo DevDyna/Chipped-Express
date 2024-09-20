@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:blackstone"},"result":"chipped:curly_blackstone_pillar"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:blackstone"},"result":{"id":"chipped:curly_blackstone_pillar"}}

@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:mud_bricks"},"result":"chipped:double_mud_bricks_bricks"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:mud_bricks"},"result":{"id":"chipped:double_mud_bricks_bricks"}}

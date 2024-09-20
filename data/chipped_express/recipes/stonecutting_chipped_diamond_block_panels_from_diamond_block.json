@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:diamond_block"},"result":"chipped:diamond_block_panels"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:diamond_block"},"result":{"id":"chipped:diamond_block_panels"}}

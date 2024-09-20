@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:gray_terracotta"},"result":"chipped:circular_gray_terracotta"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:gray_terracotta"},"result":{"id":"chipped:circular_gray_terracotta"}}

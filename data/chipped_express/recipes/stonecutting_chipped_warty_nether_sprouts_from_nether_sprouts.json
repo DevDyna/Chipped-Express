@@ -1,1 +1,1 @@
-{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:nether_sprouts"},"result":"chipped:warty_nether_sprouts"}
+{"type":"minecraft:stonecutting","count":1,"ingredient":{"item":"minecraft:nether_sprouts"},"result":{"id":"chipped:warty_nether_sprouts"}}
